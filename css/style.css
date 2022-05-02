@@ -3,7 +3,7 @@ body{
 }
 
 main{
-    margin: 0px 20px 0px 20px;
+    margin: 0px 15px 0px 15px;
 }
 
 .contenitore-superiore{
@@ -52,9 +52,11 @@ main{
     height: 480px;
 }
 
-section p {
+section p,li {
     font-size: 21px;
 }
+
+
 
 
 
