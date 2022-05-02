@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+
+main{
+    margin: 0px 20px 0px 20px;
+}
+
+.contenitore-superiore{
+    width: 100%;
+    background-color: dodgerblue;
+    height: 150px;
+    background-image: url('../img/pattern.png');
+    background-repeat: repeat-x;
+    background-size: 570px;
+    
+}
+
+.contenitore-superiore img {
+    width: 270px;
+    margin-top: 60px;
+    margin-left: 20px;
+
+}
+
+.titolone{
+    font-size: 52px;
+    font-weight: bold;
+    display: block;
+    margin-top: 20px;
+}
+
+.autore{
+    font-size: 20px;
+    color: #A9A9A9;
+    display: block;
+}
+
+#link_autore {
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+#data {
+    font-size: 15px;
+    color: #A9A9A9;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.contenitore_img img {
+    height: 480px;
+}
+
+section p {
+    font-size: 21px;
+}
+
+
+
+
+
+
