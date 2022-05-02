@@ -3,7 +3,7 @@ body{
 }
 
 main, footer{
-    margin: 0px 15px 0px 15px;
+    margin: 0px 145px 0px 145px;
 }
 
 .contenitore-superiore{
@@ -19,12 +19,12 @@ main, footer{
 .contenitore-superiore img {
     width: 270px;
     margin-top: 60px;
-    margin-left: 20px;
+    margin-left: 145px;
 
 }
 
 .titolone{
-    font-size: 52px;
+    font-size: 42px;
     font-weight: bold;
     display: block;
     margin-top: 20px;
@@ -48,12 +48,13 @@ main, footer{
     margin-bottom: 30px;
 }
 
+
 .contenitore_img img {
-    height: 480px;
+    height: 390px;
 }
 
 section p,li {
-    font-size: 21px;
+    font-size: 17px;
 }
 
 table{
@@ -107,11 +108,3 @@ ul{
 #menu{
     margin-left: 15px;
 }
-
-
-
-
-
-
-
-
