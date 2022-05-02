@@ -56,6 +56,24 @@ section p,li {
     font-size: 21px;
 }
 
+table{
+    margin-top: 40px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.colonna1{
+    width: 25%;
+}
+
+tr:nth-child(odd) {background-color: rgba(148, 230, 255, 0.6)}
+
+th{
+    background-color:dodgerblue;
+    text-align: left;
+    color: white;
+}
+
 
 
 
